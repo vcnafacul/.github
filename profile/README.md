@@ -1,6 +1,4 @@
 <main>
-  <h1>Bem Vindo ao Você na Facul</h1>
-  <hr>
   <div align="center" id="top"> 
     <a href="https://vcnafacul.com.br" target="_blank"><img src="/assets/vcnafacul.png" alt="Logo"></a>
  </div>
