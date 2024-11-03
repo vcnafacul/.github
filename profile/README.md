@@ -22,114 +22,24 @@
 <div style="display: flex; align-items: center; gap: 8px;"><img src="https://avatars.githubusercontent.com/u/128550116?s=400&u=b6ec73808233749eb515c2a93f55fe25ed9631d4&v=4" width="20" /> Site: <a href="https://vcnafacul.com.br">vcnafacul.com.br</a></div>
   
  <h2>Principais tecnologias</h2>
- <div align="center">
-   <div style="width: 100px; display: inline-block;">
-      <a href="https://react.dev/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Logo React" height="40" width="40" />
-        <p style="color: #f0f0f0; font-weight: bold;">React</p>
-      </a>
-    </div>
-    <div style="width: 100px; display: inline-block;">
-      <a href="https://www.typescriptlang.org/" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="Logo Typescript" height="40" width="40" />
-        <p style="font-weight: bold;">Typescript</p>
-      </a>
-    </div>
-    <div style="width: 100px; display: inline-block;">
-  <a href="https://vite.dev/" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitejs/vitejs-original.svg" alt="Logo Vite" height="40" width="40" />
-      <p style="color: #f0f0f0; font-weight: bold;">Vite</p>
-    </div>
-  </a>
-  <div style="width: 100px; display: inline-block;">
-  <a href="https://tailwindcss.com/" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" alt="Logo Tailwind" height="40" width="40" />
-      <p style="color: #f0f0f0; font-weight: bold;">Tailwind</p>
-    </a>
-  </div>
-  <div style="width: 100px; display: inline-block;">
-      <a href="https://zustand-demo.pmnd.rs/" style="text-decoration: none;">
-      <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="Logo Zustand" height="40" width="40" />
-      <p style="color: #f0f0f0; font-weight: bold;">Zustand</p>
-    </a>
-  </div>
+  
+ [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://react.dev/)
+ [![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+ [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vite.dev/)
+ [![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+ [![Zustand](https://img.shields.io/badge/-Zustand-000?style=flat&logo=zustand&logoColor=white)](https://zustand-demo.pmnd.rs/)
+ [![Nest JS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
+ [![Postgresql](https://img.shields.io/badge/-Postgresql-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+ [![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white)](https://nginx.org/en/)
+ [![Node](https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en)
+ [![Mysql](https://img.shields.io/badge/-Mysql-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+ [![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)](https://swagger.io/)
+ [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+ [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
+ [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
+ [![Mongo](https://img.shields.io/badge/-Mongo-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+ [![Android Studio](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjwyL24BhCtARIsALo0fSCm5HC_WNjMLeSGsHUKnDvYUvNm9x7AwLrVOCATI_eQU-l-ssdlUm8aApfWEALw_wcB&gclsrc=aw.ds&hl=pt-br)
 
-  <div style="width: 100px; display: inline-block;">
-  <a href="https://nestjs.com/" style="text-decoration: none;">
-      <img align="center" alt="Logo Nest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nestjs/nestjs-original.svg">
-      <p style="font-weight: bold;">Nest JS</p>
-    </a>
-  </div>
-
-  <div style="width: 100px; display: inline-block;">
-  <a href="https://www.postgresql.org/" style="text-decoration: none;">
-      <img align="center" alt="Logo Postgresql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg">
-      <p style="font-weight: bold;">Postgresql</p>
-    </a>
-  </div>
-
-  <div style="width: 100px; display: inline-block;">
-  <a href="https://nginx.org/en/" style="text-decoration: none;">
-      <img align="center" alt="Logo Nginx" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nginx/nginx-original.svg">
-      <p style="font-weight: bold;">Nginx</p>
-    </a>
-  </div>
-
-  <div style="width: 100px; display: inline-block;">
-  <a href="https://nodejs.org/en" style="text-decoration: none;">
-      <img align="center" alt="Logo Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original.svg">
-      <p style="font-weight: bold;">Node</p>
-    </a>
-  </div>
-
-  <div style="width: 100px; display: inline-block;">
-  <a href="https://www.mysql.com/" style="text-decoration: none;">
-      <img align="center" alt="Logo Mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg">
-      <p style="font-weight: bold;">MySQL</p>
-    </a>
-  </div>
-
-  <div style="width: 100px; display: inline-block;">
-  <a href="https://swagger.io/" style="text-decoration: none;">
-      <img align="center" alt="Logo Swagger" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/swagger/swagger-original.svg">
-      <p style="font-weight: bold;">Swagger</p>
-    </a>
-  </div>
-
-  <div style="width: 100px; display: inline-block;">
-  <a href="https://www.docker.com/" style="text-decoration: none;">
-      <img align="center" alt="Logo Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original.svg">
-      <p style="font-weight: bold;">Docker</p>
-    </a>
-  </div>
-
-  <div style="width: 100px; display: inline-block;">
-  <a href="https://www.figma.com/" style="text-decoration: none;">
-      <img align="center" alt="Logo Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg">
-      <p style="font-weight: bold;">Figma</p>
-    </a>
-  </div>
-
-  <div style="width: 100px; display: inline-block;">
-  <a href="https://www.mongodb.com/" style="text-decoration: none;">
-      <img align="center" alt="Logo Mongo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg">
-      <p style="font-weight: bold;">Mongo</p>
-    </a>
-  </div>
-
-  <div style="width: 100px; display: inline-block;">
-  <a href="https://flutter.dev/" style="text-decoration: none;">
-      <img align="center" alt="Logo Flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/flutter/flutter-original.svg">
-      <p style="font-weight: bold;">Flutter</p>
-    </a>
-  </div>
-
-  <div style="width: 100px; display: inline-block;">
-  <a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjwyL24BhCtARIsALo0fSCm5HC_WNjMLeSGsHUKnDvYUvNm9x7AwLrVOCATI_eQU-l-ssdlUm8aApfWEALw_wcB&gclsrc=aw.ds&hl=pt-br" style="text-decoration: none;">
-      <img align="center" alt="Logo Android" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/android/android-original.svg">
-      <p style="font-weight: bold;">Android Studio</p>
-    </a>
-  </div>
- </div>
+ 
 
 </main>
