@@ -38,7 +38,7 @@ Estamos comprometidos em criar um ambiente onde **todas as pessoas se sintam seg
 - ❌ Mensagens promocionais não autorizadas pelo Moderador.  
 - ❌ Qualquer comportamento considerado **inadequado em um ambiente profissional**.  
 - 📸 **Fotografia ou gravação inadequada**.  
-- ❌ Atenção sexual indesejada, incluindo comentários sexualizados, piadas, toques inapropriados, e avanços sexuais não consentidos.  
+- ❌ Atenção sexual indesejada, incluindo comentários sexualizados, piadas, toques inapropriados e avanços sexuais não consentidos.  
 - ❌ Intimidação deliberada, perseguição ou seguimento (online ou presencial).  
 - ❌ **Incentivar ou apoiar qualquer um dos comportamentos mencionados acima**.  
 - ❌ **Interrupções constantes** de eventos da comunidade, incluindo palestras e apresentações.  
