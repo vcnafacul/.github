@@ -1,6 +1,6 @@
 <main>
   <div align="center" id="top"> 
-    <a href="https://vcnafacul.com.br" target="_blank"><img src="/assets/vcnafacul.png" alt="Logo"></a>
+    <a href="https://vcnafacul.com.br" target="_blank"><img src="/assets/Logo-transparente.png" alt="Logo"></a>
  </div>
  <p align="center">Bem-vindo ao repositório do Você na Facul! Somos um projeto social dedicado a democratizar o acesso à educação de qualidade por meio de uma plataforma de estudos pré-vestibular exclusiva para cursinhos populares. Nosso objetivo é fornecer ferramentas e conteúdos que permitam a estudantes de todas as origens preparar-se com mais eficiência para os vestibulares e o ENEM.</p>
  <p align="justify">No Você na Facul, trabalhamos com uma equipe diversa de voluntários e colaboradores apaixonados por transformar vidas através da educação. Combinamos esforços nas áreas de design, desenvolvimento de software, planejamento pedagógico e gestão de projetos para construir uma plataforma acessível e prática. Acreditamos que, ao fortalecer a base educacional dos cursinhos populares, conseguimos ampliar as oportunidades de ingresso no ensino superior para milhares de jovens brasileiros.</p>
