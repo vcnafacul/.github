@@ -25,20 +25,36 @@
 
   <h2>🤝 Como você pode ajudar?</h2>
   
-  <p align="justify">
-    Seja você <strong>desenvolvedor, designer, educador ou apoiador da causa</strong>, existem várias formas de contribuir! 
-    Aqui você encontrará nosso código-fonte, documentação, guias de contribuição e discussões sobre o futuro do projeto.  
-  </p>
 
-  <p align="end"><strong>Junte-se a nós para transformar vidas e abrir portas para um futuro com mais oportunidades! 🚀</strong></p>
+O **Você na Facul** é um projeto social movido por voluntários apaixonados pela educação. Se você acredita que todos devem ter acesso a um ensino de qualidade, há diversas formas de ajudar essa causa!  
 
-  <h2>🔗 Nossos Repositórios</h2>
-  <ul>
-    <li>🚀 <a href="https://github.com/vcnafacul/client-vcnafacul">Front End</a></li>
-    <li>📚 <a href="https://github.com/vcnafacul/api-vcnafacul">Back End API</a></li>
-    <li>🧪 <a href="https://github.com/vcnafacul/ms-simulado">MS Simulado</a></li>
-    <li>📱 <a href="https://github.com/vcnafacul/vcnafacul_app">App Administrativo</a></li>
-  </ul>
+### 💻 Desenvolvedores  
+Nosso projeto é open-source e sempre há espaço para melhorias. Se você é desenvolvedor e quer contribuir com código, novas funcionalidades ou correções de bugs, confira nossos repositórios:  
+
+- 🚀 [Front End](https://github.com/vcnafacul/client-vcnafacul)  
+- 📚 [Back End API](https://github.com/vcnafacul/api-vcnafacul)  
+- 🧪 [MS Simulado](https://github.com/vcnafacul/ms-simulado)  
+- 📱 [App-Adm](https://github.com/vcnafacul/vcnafacul_app)  
+
+Dê uma olhada nas *issues* e envie um PR!  
+
+### 📖 Educadores  
+Se você é professor ou educador e quer ajudar na criação de materiais, revisão de conteúdos ou sugestões pedagógicas, entre em contato conosco pelo e-mail: [contato@vcnafacul.com.br](mailto:contato@vcnafacul.com.br).  
+
+### 📢 Divulgadores  
+Acredita na nossa missão? Então ajude divulgando o **Você na Facul**! Compartilhe nas redes sociais, fale sobre o projeto com amigos, cursinhos populares e estudantes que possam se beneficiar da plataforma.  
+
+### 💙 Apoie financeiramente  
+Estamos em processo de avaliação no **GitHub Sponsors**, o que permitirá que apoiadores contribuam diretamente para o projeto. Caso nossa página já esteja disponível, você pode nos apoiar aqui:  
+
+[💖 Apoiar via GitHub Sponsors](https://github.com/sponsors/vcnafacul/)  
+
+Caso o link ainda não esteja ativo, acompanhe nossas redes para novidades!  
+
+### 🙌 Junte-se a nós!  
+Toda ajuda é bem-vinda. Independentemente de sua área de atuação, se você quer transformar vidas através da educação, venha fazer parte do **Você na Facul**!  
+
+Juntos, podemos abrir portas para um futuro com mais oportunidades para todos. 🚀  
 
   <h2>📬 Contato</h2>
   <div>✉️ <strong>Email:</strong> <a href="mailto:contat@vcnafacul.com.br">contat@vcnafacul.com.br</a></div>
