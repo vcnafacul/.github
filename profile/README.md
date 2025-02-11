@@ -57,7 +57,7 @@ Toda ajuda é bem-vinda. Independentemente de sua área de atuação, se você q
 Juntos, podemos abrir portas para um futuro com mais oportunidades para todos. 🚀  
 
   <h2>📬 Contato</h2>
-  <div>✉️ <strong>Email:</strong> <a href="mailto:contat@vcnafacul.com.br">contat@vcnafacul.com.br</a></div>
+  <div>✉️ <strong>Email:</strong> <a href="mailto:contato@vcnafacul.com.br">contato@vcnafacul.com.br</a></div>
   <div>
     🌐 <strong>Site:</strong> 
     <a href="https://vcnafacul.com.br">vcnafacul.com.br</a>
